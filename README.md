@@ -1,32 +1,49 @@
-# Hi, I'm Artur Pelo! 👋
+# 👨‍💻 Engineering Excellence since 1986 | Hardware & Software Expert
 
-I am a Software Engineer and Educator with a career spanning back to **1986**. My journey began with the Timex 2048 and Atari, followed by low-level Assembly programming on the Amiga 500. Over the decades, I have mastered the full spectrum of computing—from the intricacies of digital electronics to modern cloud-native architectures.
+I am a veteran Software Engineer and Educator with nearly 40 years of hands-on experience in the IT industry. My journey began in **1986** on the Timex 2048 and Atari, mastering low-level **Assembly on the Amiga 500**. 
 
-I specialize in bridging the gap between hardware and software, delivering end-to-end solutions that integrate custom PCB design, firmware development, and sophisticated web/mobile interfaces.
-
----
-
-### 🛠 Core Competencies
-
-- **Embedded Systems & Hardware:** End-to-end product development. Expert in **PIC, Atmega, and STM32** microcontrollers. Proficient in digital electronics and 3D printing for rapid prototyping.
-- **Software Engineering:** C/C++, Java, PHP, and JavaScript (React, jQuery). Skilled in building native Android applications.
-- **Database Management:** Extensive experience with relational and NoSQL engines, including MySQL, MariaDB, PostgreSQL, Redis, and H2.
-- **Networking & DevOps:** Certified **CISCO** Instructor (IT Essentials, R&S) and **Mikrotik** Administrator. Expert-level knowledge of Linux environments and containerization (**Docker, Podman**).
-- **Training & Education:** Certified ECDL Trainer and Academic Lecturer, dedicated to mentoring the next generation of engineers.
+Today, I bridge the gap between silicon and the cloud. I design and build complete solutions from scratch: from **PCB design** and **firmware** for microcontrollers to **scalable web applications**, **network infrastructure**, and **containerized environments**.
 
 ---
 
-### 🎓 Certificates
-* [Insert CISCO certification name]
-* [Insert ECDL certification name]
-* [Insert other degrees/certificates]
+### 🛠 Tech Stack & Expertise
 
-### 🚀 Featured Projects
-* [Link to Project 1] – [Brief description]
-* [Link to Project 2] – [Brief description]
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-049BCE?style=for-the-badge&logo=cisco&logoColor=white)
+
+#### 🔌 Embedded Systems & Electronics
+* **Microcontrollers:** PIC, Atmega (AVR), STM32 (ARM Cortex-M).
+* **Hardware:** Digital electronics design, end-to-end prototyping (A to Z), 3D printing integration.
+* **Low-level:** C/C++, Assembly (legacy & modern).
+
+#### 🌐 Software & Web Development
+* **Backend:** Java, PHP, Node.js.
+* **Frontend:** JavaScript (ES6+), React, jQuery, HTML5, CSS3.
+* **Mobile:** Native Android Application Development.
+* **Databases:** Advanced administration of MySQL, MariaDB, PostgreSQL, Redis, H2.
+
+#### 🛡 Infrastructure & Networking
+* **Networking:**  **Mikrotik** Administrator & **CISCO** Instructor (IT Essentials, Routing & Switching).
+* **DevOps:** Linux Systems Administration, Docker, Podman.
 
 ---
 
-📫 **How to reach me:**
-* E-mail: [Your email address]
-* LinkedIn: [Link to your profile]
+### 🎓 Certifications & Education
+* **CISCO Certified Academy Instructor** (IT Essentials, Routing and Switching).
+* **ECDL Certified Trainer**.
+* **Academic Lecturer:** Sharing 30+ years of industry knowledge with the next generation of engineers.
+
+---
+
+### 📫 Contact Me
+* **Email:** artur.pelo@gmail.com
+* **Location:** Poland 🇵🇱
+
+---
+
+> "From 8-bit registers to container orchestration – I've seen it all, and I'm still coding the future."
